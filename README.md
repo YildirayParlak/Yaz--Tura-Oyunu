@@ -1,1 +1,1 @@
-# Yaz-Tura-Oyunu
+# Yazi-Tura-Oyunu
